@@ -1,0 +1,10 @@
+.buttonext{ width:120px; margin:0 auto; }
+
+.user-block img {
+  float: left;
+  height: 250px;
+  width: 250px;
+}
+.btn-secondary{ background-color:#267dc2 }
+.btn-success {background-color:#267dc2 }
+.card-primary:not(.card-outline) > .card-header { background-color:#267dc2; }
