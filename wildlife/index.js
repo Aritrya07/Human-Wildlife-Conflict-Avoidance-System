@@ -14,11 +14,11 @@ const transporter = nodemailer.createTransport({
 });
 
 sgMail.setApiKey(
-  "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"
+  ""
 );
 
-const accountSid = "AC7fc84827af0dcf31326ea6a65ecfdefb";
-const authToken = "019115d19e68e507c8f48719c21322f3";
+const accountSid = "";
+const authToken = "";
 const client = require("twilio")(accountSid, authToken);
 
 const app = express();
